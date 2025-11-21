@@ -1,0 +1,4 @@
+{
+    "TargetHost": "your-remote-host",
+    "TargetDir": "c:\\path\\to\\deployment\\directory"
+}

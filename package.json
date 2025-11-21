@@ -1,5 +1,7 @@
 {
   "name": "swimwell-web",
+  "description": "Swimwell marketting website",
+  "author": "Veli Gebrev",
   "version": "0.1.0",
   "private": true,
   "scripts": {
