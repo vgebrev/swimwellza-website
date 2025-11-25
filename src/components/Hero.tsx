@@ -40,7 +40,7 @@ export default function Hero() {
           {/* Address Panel */}
           <div className="mb-8 max-w-xs text-center">
             <h2 className="mb-2 text-lg font-bold text-swimwell-dark">
-              Jan Cilliers Primary School
+              Jan Celliers Primary School
             </h2>
             <p className="text-base font-medium text-swimwell-dark/80">
               49 Lower Park Drive, Parkview<br />Johannesburg 2193
